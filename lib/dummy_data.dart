@@ -83,6 +83,7 @@ const DUMMY_MEALS = [
     id: 'm3',
     categories: [
       'c3',
+      'c2',
     ],
     title: 'Classic Hamburger',
     affordability: Affordability.pricey,
