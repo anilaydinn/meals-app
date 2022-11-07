@@ -9,6 +9,7 @@ import 'package:meals_app/screens/tabs_screen.dart';
 import 'models/meal.dart';
 
 void main() {
+  print("Empty commit");
   runApp(const MyApp());
 }
 
